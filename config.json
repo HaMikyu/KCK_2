@@ -1,0 +1,17 @@
+{
+  "program": "notepad.exe",
+  "title": "Notatnik",
+  "path": "C:\\Users\\PC\\PycharmProjects\\KCK_New\\ruchy",
+  "key": "key.home",
+  "monitor": 1,
+  "first_person_view": false,
+  "record_screen": false,
+  "compress_image": true,
+  "save_format": "jpg",
+  "quality": 75,
+  "res_x": 1280,
+  "res_y": 720,
+  "use_terminal": false,
+  "width": 2560,
+  "height": 1440
+}
